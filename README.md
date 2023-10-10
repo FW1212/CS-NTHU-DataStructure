@@ -1,11 +1,9 @@
 
 
-2022/February - 2022/June
+2022/September - 2023/January
 
 Notice:
-1. Use Xilinx Vivado to program Verilog
-2. Use Basys3 FPGA board to process
+1. C++ environment
 
-期末專案：自製洗衣機控制系統  
-Link: https://drive.google.com/file/d/13n0dPEV2ayQ0k0Qx-i0vPQkdNpFyXaZA/view?usp=sharing
+期末專案：自製小型搜尋引擎
 
